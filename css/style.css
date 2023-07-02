@@ -85,10 +85,10 @@ h6 {
     z-index: 997;
 }
 
-.header.header-scrolled {
+ .header.header-scrolled {
     background: rgba(0, 0, 0, 0.9);
     padding: 20px 0;
-    height: 100px;
+    height: 110px;
     transition: all 0.3s;
 }
 
